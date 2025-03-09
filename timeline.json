@@ -1,0 +1,4013 @@
+{
+  "lyricColor": [
+    1.0,
+    0.372549,
+    0.788235,
+    1.0
+  ],
+  "lyrics": [
+    {
+      "time": 14.137928,
+      "duration": 0.25862062,
+      "text": "Hol",
+      "isLineEnding": 0
+    },
+    {
+      "time": 14.3965483,
+      "duration": 0.229885012,
+      "text": "din' ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 14.65517,
+      "duration": 0.158045948,
+      "text": "me ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 14.8275833,
+      "duration": 0.3160919,
+      "text": "bac",
+      "isLineEnding": 0
+    },
+    {
+      "time": 15.1436758,
+      "duration": 0.0431034379,
+      "text": "k",
+      "isLineEnding": 1
+    },
+    {
+      "time": 16.2068939,
+      "duration": 0.25862062,
+      "text": "Gra",
+      "isLineEnding": 0
+    },
+    {
+      "time": 16.4655151,
+      "duration": 0.25862062,
+      "text": "vi",
+      "isLineEnding": 0
+    },
+    {
+      "time": 16.7241344,
+      "duration": 0.12931031,
+      "text": "ty",
+      "isLineEnding": 0
+    },
+    {
+      "time": 16.8534451,
+      "duration": 0.0287356265,
+      "text": "'s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 16.8965473,
+      "duration": 0.25862062,
+      "text": "hol",
+      "isLineEnding": 0
+    },
+    {
+      "time": 17.15517,
+      "duration": 0.25862062,
+      "text": "din' ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 17.41379,
+      "duration": 0.158045948,
+      "text": "me ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 17.5862026,
+      "duration": 0.387930959,
+      "text": "ba",
+      "isLineEnding": 0
+    },
+    {
+      "time": 17.9741344,
+      "duration": 0.0862068757,
+      "text": "ck",
+      "isLineEnding": 1
+    },
+    {
+      "time": 18.7931,
+      "duration": 0.158045948,
+      "text": "I ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 18.9655132,
+      "duration": 0.2155172,
+      "text": "wan",
+      "isLineEnding": 0
+    },
+    {
+      "time": 19.18103,
+      "duration": 0.0431034379,
+      "text": "t ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 19.2241344,
+      "duration": 0.25862062,
+      "text": "you ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 19.4827557,
+      "duration": 0.158045948,
+      "text": "to ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 19.6551685,
+      "duration": 0.25862062,
+      "text": "hold ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 19.91379,
+      "duration": 0.25862062,
+      "text": "out ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 20.172411,
+      "duration": 0.158045948,
+      "text": "the ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 20.3448238,
+      "duration": 0.25862062,
+      "text": "palm",
+      "isLineEnding": 1
+    },
+    {
+      "time": 20.6034431,
+      "duration": 0.25862062,
+      "text": "Of ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 20.8620644,
+      "duration": 0.158045948,
+      "text": "your ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 21.03448,
+      "duration": 0.330459684,
+      "text": "hand",
+      "isLineEnding": 1
+    },
+    {
+      "time": 21.7241344,
+      "duration": 0.25862062,
+      "text": "Why ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 21.9827538,
+      "duration": 0.25862062,
+      "text": "don't ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 22.241375,
+      "duration": 0.158045948,
+      "text": "we ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 22.41379,
+      "duration": 0.25862062,
+      "text": "leave ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 22.67241,
+      "duration": 0.25862062,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 22.93103,
+      "duration": 0.143678129,
+      "text": "at ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 23.1034451,
+      "duration": 0.3448275,
+      "text": "that?",
+      "isLineEnding": 1
+    },
+    {
+      "time": 25.17241,
+      "duration": 0.25862062,
+      "text": "No",
+      "isLineEnding": 0
+    },
+    {
+      "time": 25.4310284,
+      "duration": 0.25862062,
+      "text": "thin' ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 25.68965,
+      "duration": 0.158045948,
+      "text": "to ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 25.8620644,
+      "duration": 0.3448275,
+      "text": "say",
+      "isLineEnding": 1
+    },
+    {
+      "time": 27.06896,
+      "duration": 0.158045948,
+      "text": "When ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 27.241375,
+      "duration": 0.25862062,
+      "text": "eve",
+      "isLineEnding": 0
+    },
+    {
+      "time": 27.4999943,
+      "duration": 0.25862062,
+      "text": "ry",
+      "isLineEnding": 0
+    },
+    {
+      "time": 27.7586155,
+      "duration": 0.158045948,
+      "text": "thing ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 27.93103,
+      "duration": 0.172413751,
+      "text": "ge",
+      "isLineEnding": 0
+    },
+    {
+      "time": 28.1034431,
+      "duration": 0.0862068757,
+      "text": "ts ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 28.18965,
+      "duration": 0.25862062,
+      "text": "in ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 28.44827,
+      "duration": 0.158045948,
+      "text": "the ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 28.6206856,
+      "duration": 0.3448275,
+      "text": "way",
+      "isLineEnding": 1
+    },
+    {
+      "time": 29.9999924,
+      "duration": 0.25862062,
+      "text": "Seems ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 30.2586155,
+      "duration": 0.272988439,
+      "text": "you ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 30.5316048,
+      "duration": 0.143678129,
+      "text": "can",
+      "isLineEnding": 0
+    },
+    {
+      "time": 30.6896477,
+      "duration": 0.229885012,
+      "text": "no",
+      "isLineEnding": 0
+    },
+    {
+      "time": 30.9195328,
+      "duration": 0.0287356265,
+      "text": "t ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 30.9482689,
+      "duration": 0.25862062,
+      "text": "be ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 31.206892,
+      "duration": 0.158045948,
+      "text": "re",
+      "isLineEnding": 0
+    },
+    {
+      "time": 31.379303,
+      "duration": 0.25862062,
+      "text": "pla",
+      "isLineEnding": 0
+    },
+    {
+      "time": 31.6379242,
+      "duration": 0.301724076,
+      "text": "ce",
+      "isLineEnding": 0
+    },
+    {
+      "time": 31.93965,
+      "duration": 0.0431034379,
+      "text": "d",
+      "isLineEnding": 1
+    },
+    {
+      "time": 32.7586136,
+      "duration": 0.25862062,
+      "text": "And ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 33.0172348,
+      "duration": 0.25862062,
+      "text": "I'm ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 33.275856,
+      "duration": 0.158045948,
+      "text": "the ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 33.44827,
+      "duration": 0.25862062,
+      "text": "one ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 33.70689,
+      "duration": 0.25862062,
+      "text": "who ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 33.96551,
+      "duration": 0.0862068757,
+      "text": "will ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 34.0517159,
+      "duration": 0.0862068757,
+      "text": "s",
+      "isLineEnding": 0
+    },
+    {
+      "time": 34.1379242,
+      "duration": 0.3448275,
+      "text": "tay",
+      "isLineEnding": 1
+    },
+    {
+      "time": 34.82758,
+      "duration": 0.51724124,
+      "text": "Oh-",
+      "isLineEnding": 0
+    },
+    {
+      "time": 35.3448219,
+      "duration": 0.51724124,
+      "text": "oh-",
+      "isLineEnding": 0
+    },
+    {
+      "time": 35.86206,
+      "duration": 0.25862062,
+      "text": "oh",
+      "isLineEnding": 1
+    },
+    {
+      "time": 37.5862,
+      "duration": 0.51724124,
+      "text": "In ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 38.10344,
+      "duration": 0.3448275,
+      "text": "th",
+      "isLineEnding": 0
+    },
+    {
+      "time": 38.44827,
+      "duration": 0.172413751,
+      "text": "is ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 38.62068,
+      "duration": 0.8620688,
+      "text": "wor",
+      "isLineEnding": 0
+    },
+    {
+      "time": 39.48275,
+      "duration": 0.172413751,
+      "text": "ld ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 40.3448219,
+      "duration": 0.4310344,
+      "text": "it",
+      "isLineEnding": 0
+    },
+    {
+      "time": 40.775856,
+      "duration": 0.0862068757,
+      "text": "'s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 40.86206,
+      "duration": 0.4310344,
+      "text": "ju",
+      "isLineEnding": 0
+    },
+    {
+      "time": 41.2930946,
+      "duration": 0.0862068757,
+      "text": "st ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 41.379303,
+      "duration": 0.689655,
+      "text": "u",
+      "isLineEnding": 0
+    },
+    {
+      "time": 42.06896,
+      "duration": 0.0862068757,
+      "text": "s",
+      "isLineEnding": 1
+    },
+    {
+      "time": 44.13792,
+      "duration": 0.158045948,
+      "text": "You ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 44.3103371,
+      "duration": 0.4310344,
+      "text": "kno",
+      "isLineEnding": 0
+    },
+    {
+      "time": 44.74137,
+      "duration": 0.0862068757,
+      "text": "w ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 44.82758,
+      "duration": 0.25862062,
+      "text": "it",
+      "isLineEnding": 0
+    },
+    {
+      "time": 45.0861969,
+      "duration": 0.0718390644,
+      "text": "'s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 45.1724,
+      "duration": 0.25862062,
+      "text": "no",
+      "isLineEnding": 0
+    },
+    {
+      "time": 45.4310265,
+      "duration": 0.0718390644,
+      "text": "t ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 45.51723,
+      "duration": 0.3160919,
+      "text": "the ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 45.86206,
+      "duration": 0.4310344,
+      "text": "sa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 46.2930946,
+      "duration": 0.0862068757,
+      "text": "me",
+      "isLineEnding": 1
+    },
+    {
+      "time": 46.379303,
+      "duration": 0.51724124,
+      "text": "As ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 46.89654,
+      "duration": 0.2155172,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 47.24137,
+      "duration": 0.603448153,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 47.84482,
+      "duration": 0.0862068757,
+      "text": "s",
+      "isLineEnding": 1
+    },
+    {
+      "time": 48.62068,
+      "duration": 0.51724124,
+      "text": "In ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 49.1379242,
+      "duration": 0.3448275,
+      "text": "th",
+      "isLineEnding": 0
+    },
+    {
+      "time": 49.4827461,
+      "duration": 0.172413751,
+      "text": "is ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 49.6551628,
+      "duration": 0.8620688,
+      "text": "wor",
+      "isLineEnding": 0
+    },
+    {
+      "time": 50.5172348,
+      "duration": 0.172413751,
+      "text": "ld ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 51.3793,
+      "duration": 0.4310344,
+      "text": "it",
+      "isLineEnding": 0
+    },
+    {
+      "time": 51.8103333,
+      "duration": 0.0862068757,
+      "text": "'s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 51.8965454,
+      "duration": 0.4310344,
+      "text": "ju",
+      "isLineEnding": 0
+    },
+    {
+      "time": 52.3275757,
+      "duration": 0.0862068757,
+      "text": "st ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 52.413784,
+      "duration": 0.689655,
+      "text": "u",
+      "isLineEnding": 0
+    },
+    {
+      "time": 53.10344,
+      "duration": 0.0862068757,
+      "text": "s",
+      "isLineEnding": 1
+    },
+    {
+      "time": 55.1724,
+      "duration": 0.158045948,
+      "text": "You ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 55.34482,
+      "duration": 0.4310344,
+      "text": "kno",
+      "isLineEnding": 0
+    },
+    {
+      "time": 55.7758522,
+      "duration": 0.0862068757,
+      "text": "w ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 55.86206,
+      "duration": 0.25862062,
+      "text": "it",
+      "isLineEnding": 0
+    },
+    {
+      "time": 56.1206779,
+      "duration": 0.0718390644,
+      "text": "'s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 56.2068863,
+      "duration": 0.25862062,
+      "text": "no",
+      "isLineEnding": 0
+    },
+    {
+      "time": 56.4655075,
+      "duration": 0.0718390644,
+      "text": "t ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 56.551712,
+      "duration": 0.3160919,
+      "text": "the ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 56.89654,
+      "duration": 0.4310344,
+      "text": "sa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 57.3275757,
+      "duration": 0.0862068757,
+      "text": "me",
+      "isLineEnding": 1
+    },
+    {
+      "time": 57.41378,
+      "duration": 0.51724124,
+      "text": "As ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 57.9310226,
+      "duration": 0.2155172,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 58.2758522,
+      "duration": 0.603448153,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 58.8793,
+      "duration": 0.0862068757,
+      "text": "s",
+      "isLineEnding": 1
+    },
+    {
+      "time": 60.1724,
+      "duration": 0.3448275,
+      "text": "A",
+      "isLineEnding": 0
+    },
+    {
+      "time": 60.51723,
+      "duration": 0.3448275,
+      "text": "s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 60.8620567,
+      "duration": 0.143678129,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 61.0344734,
+      "duration": 0.689655,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 61.7241249,
+      "duration": 0.0862068757,
+      "text": "s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 62.9310226,
+      "duration": 0.3448275,
+      "text": "a",
+      "isLineEnding": 0
+    },
+    {
+      "time": 63.27585,
+      "duration": 0.3448275,
+      "text": "s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 63.6206779,
+      "duration": 0.143678129,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 63.79309,
+      "duration": 0.9482757,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 64.74136,
+      "duration": 0.0862068757,
+      "text": "s",
+      "isLineEnding": 1
+    },
+    {
+      "time": 66.20688,
+      "duration": 0.158045948,
+      "text": "You ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 66.3792953,
+      "duration": 0.4310344,
+      "text": "kno",
+      "isLineEnding": 0
+    },
+    {
+      "time": 66.81033,
+      "duration": 0.0862068757,
+      "text": "w ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 66.89654,
+      "duration": 0.25862062,
+      "text": "it",
+      "isLineEnding": 0
+    },
+    {
+      "time": 67.15516,
+      "duration": 0.0718390644,
+      "text": "'s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 67.24137,
+      "duration": 0.25862062,
+      "text": "no",
+      "isLineEnding": 0
+    },
+    {
+      "time": 67.4999847,
+      "duration": 0.0718390644,
+      "text": "t ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 67.58619,
+      "duration": 0.3160919,
+      "text": "the ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 67.93102,
+      "duration": 0.4310344,
+      "text": "sa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 68.36205,
+      "duration": 0.0862068757,
+      "text": "me",
+      "isLineEnding": 1
+    },
+    {
+      "time": 69.31033,
+      "duration": 0.25862062,
+      "text": "An",
+      "isLineEnding": 0
+    },
+    {
+      "time": 69.56895,
+      "duration": 0.25862062,
+      "text": "swer ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 69.8275757,
+      "duration": 0.158045948,
+      "text": "the ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 69.9999847,
+      "duration": 0.3448275,
+      "text": "phone",
+      "isLineEnding": 1
+    },
+    {
+      "time": 71.3792953,
+      "duration": 0.25862062,
+      "text": "\"Ha",
+      "isLineEnding": 0
+    },
+    {
+      "time": 71.63792,
+      "duration": 0.25862062,
+      "text": "rry ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 71.89654,
+      "duration": 0.158045948,
+      "text": "you're ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 72.0689545,
+      "duration": 0.25862062,
+      "text": "no ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 72.32757,
+      "duration": 0.25862062,
+      "text": "good ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 72.5862,
+      "duration": 0.172413751,
+      "text": "a",
+      "isLineEnding": 0
+    },
+    {
+      "time": 72.758606,
+      "duration": 0.3448275,
+      "text": "lone",
+      "isLineEnding": 1
+    },
+    {
+      "time": 74.13792,
+      "duration": 0.25862062,
+      "text": "Why ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 74.39654,
+      "duration": 0.25862062,
+      "text": "are ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 74.65516,
+      "duration": 0.158045948,
+      "text": "you ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 74.82757,
+      "duration": 0.25862062,
+      "text": "si",
+      "isLineEnding": 0
+    },
+    {
+      "time": 75.08619,
+      "duration": 0.25862062,
+      "text": "tting ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 75.34482,
+      "duration": 0.158045948,
+      "text": "at ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 75.51723,
+      "duration": 0.2155172,
+      "text": "ho",
+      "isLineEnding": 0
+    },
+    {
+      "time": 75.73274,
+      "duration": 0.0431034379,
+      "text": "me",
+      "isLineEnding": 1
+    },
+    {
+      "time": 75.77585,
+      "duration": 0.25862062,
+      "text": "On ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 76.03447,
+      "duration": 0.158045948,
+      "text": "the ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 76.20688,
+      "duration": 0.3448275,
+      "text": "floor?",
+      "isLineEnding": 1
+    },
+    {
+      "time": 76.89654,
+      "duration": 0.244252831,
+      "text": "What ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 77.15516,
+      "duration": 0.25862062,
+      "text": "kind ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 77.41378,
+      "duration": 0.158045948,
+      "text": "of ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 77.58619,
+      "duration": 0.25862062,
+      "text": "... ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 77.93102,
+      "duration": 0.172413751,
+      "text": "are ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 78.10343,
+      "duration": 0.172413751,
+      "text": "you ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 78.27585,
+      "duration": 0.3448275,
+      "text": "on?\"",
+      "isLineEnding": 1
+    },
+    {
+      "time": 80.34481,
+      "duration": 0.25862062,
+      "text": "Ring",
+      "isLineEnding": 0
+    },
+    {
+      "time": 80.60343,
+      "duration": 0.25862062,
+      "text": "in' ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 80.86205,
+      "duration": 0.158045948,
+      "text": "the ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 81.03446,
+      "duration": 0.3448275,
+      "text": "bell",
+      "isLineEnding": 1
+    },
+    {
+      "time": 82.24136,
+      "duration": 0.158045948,
+      "text": "And ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 82.41377,
+      "duration": 0.25862062,
+      "text": "no",
+      "isLineEnding": 0
+    },
+    {
+      "time": 82.67239,
+      "duration": 0.25862062,
+      "text": "bo",
+      "isLineEnding": 0
+    },
+    {
+      "time": 82.93102,
+      "duration": 0.158045948,
+      "text": "dy's ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 83.10343,
+      "duration": 0.25862062,
+      "text": "co",
+      "isLineEnding": 0
+    },
+    {
+      "time": 83.36205,
+      "duration": 0.25862062,
+      "text": "ming ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 83.62067,
+      "duration": 0.172413751,
+      "text": "to ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 83.79309,
+      "duration": 0.3448275,
+      "text": "help",
+      "isLineEnding": 1
+    },
+    {
+      "time": 85.17239,
+      "duration": 0.201149389,
+      "text": "Your ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 85.431015,
+      "duration": 0.057471253,
+      "text": "da",
+      "isLineEnding": 0
+    },
+    {
+      "time": 85.6896439,
+      "duration": 0.158045948,
+      "text": "ddy ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 85.86205,
+      "duration": 0.25862062,
+      "text": "lives ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 86.1206741,
+      "duration": 0.25862062,
+      "text": "by ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 86.37929,
+      "duration": 0.172413751,
+      "text": "him",
+      "isLineEnding": 0
+    },
+    {
+      "time": 86.55171,
+      "duration": 0.3448275,
+      "text": "self",
+      "isLineEnding": 1
+    },
+    {
+      "time": 87.758606,
+      "duration": 0.158045948,
+      "text": "He ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 87.931015,
+      "duration": 0.25862062,
+      "text": "just ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 88.18964,
+      "duration": 0.172413751,
+      "text": "wan",
+      "isLineEnding": 0
+    },
+    {
+      "time": 88.3620453,
+      "duration": 0.0862068757,
+      "text": "ts ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 88.44826,
+      "duration": 0.158045948,
+      "text": "to ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 88.6206741,
+      "duration": 0.25862062,
+      "text": "know ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 88.8792953,
+      "duration": 0.25862062,
+      "text": "that",
+      "isLineEnding": 1
+    },
+    {
+      "time": 89.13791,
+      "duration": 0.158045948,
+      "text": "You're ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 89.3103256,
+      "duration": 0.3448275,
+      "text": "well",
+      "isLineEnding": 1
+    },
+    {
+      "time": 89.9999847,
+      "duration": 0.51724124,
+      "text": "Oh-",
+      "isLineEnding": 0
+    },
+    {
+      "time": 90.51723,
+      "duration": 0.51724124,
+      "text": "oh-",
+      "isLineEnding": 0
+    },
+    {
+      "time": 91.03446,
+      "duration": 0.25862062,
+      "text": "oh",
+      "isLineEnding": 1
+    },
+    {
+      "time": 92.758606,
+      "duration": 0.51724124,
+      "text": "In ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 93.27585,
+      "duration": 0.3448275,
+      "text": "th",
+      "isLineEnding": 0
+    },
+    {
+      "time": 93.6206741,
+      "duration": 0.172413751,
+      "text": "is ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 93.79308,
+      "duration": 0.8620688,
+      "text": "wor",
+      "isLineEnding": 0
+    },
+    {
+      "time": 94.65515,
+      "duration": 0.172413751,
+      "text": "ld ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 95.51723,
+      "duration": 0.4310344,
+      "text": "it",
+      "isLineEnding": 0
+    },
+    {
+      "time": 95.94826,
+      "duration": 0.0862068757,
+      "text": "'s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 96.03446,
+      "duration": 0.4310344,
+      "text": "ju",
+      "isLineEnding": 0
+    },
+    {
+      "time": 96.4655,
+      "duration": 0.0862068757,
+      "text": "st ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 96.5517044,
+      "duration": 0.689655,
+      "text": "u",
+      "isLineEnding": 0
+    },
+    {
+      "time": 97.24136,
+      "duration": 0.0862068757,
+      "text": "s",
+      "isLineEnding": 1
+    },
+    {
+      "time": 99.3103256,
+      "duration": 0.158045948,
+      "text": "You ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 99.48274,
+      "duration": 0.4310344,
+      "text": "kno",
+      "isLineEnding": 0
+    },
+    {
+      "time": 99.91377,
+      "duration": 0.0862068757,
+      "text": "w ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 99.9999847,
+      "duration": 0.25862062,
+      "text": "it",
+      "isLineEnding": 0
+    },
+    {
+      "time": 100.258606,
+      "duration": 0.0718390644,
+      "text": "'s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 100.34481,
+      "duration": 0.25862062,
+      "text": "no",
+      "isLineEnding": 0
+    },
+    {
+      "time": 100.603424,
+      "duration": 0.0718390644,
+      "text": "t ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 100.689636,
+      "duration": 0.3160919,
+      "text": "the ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 101.03447,
+      "duration": 0.4310344,
+      "text": "sa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 101.4655,
+      "duration": 0.0862068757,
+      "text": "me",
+      "isLineEnding": 1
+    },
+    {
+      "time": 101.551704,
+      "duration": 0.51724124,
+      "text": "As ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 102.068947,
+      "duration": 0.2155172,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 102.413773,
+      "duration": 0.603448153,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 103.017227,
+      "duration": 0.0862068757,
+      "text": "s",
+      "isLineEnding": 1
+    },
+    {
+      "time": 103.793091,
+      "duration": 0.51724124,
+      "text": "In ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 104.310326,
+      "duration": 0.3448275,
+      "text": "th",
+      "isLineEnding": 0
+    },
+    {
+      "time": 104.655151,
+      "duration": 0.172413751,
+      "text": "is ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 104.827568,
+      "duration": 0.8620688,
+      "text": "wor",
+      "isLineEnding": 0
+    },
+    {
+      "time": 105.689636,
+      "duration": 0.172413751,
+      "text": "ld ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 106.5517,
+      "duration": 0.4310344,
+      "text": "it",
+      "isLineEnding": 0
+    },
+    {
+      "time": 106.982742,
+      "duration": 0.0862068757,
+      "text": "'s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 107.068947,
+      "duration": 0.4310344,
+      "text": "ju",
+      "isLineEnding": 0
+    },
+    {
+      "time": 107.499977,
+      "duration": 0.0862068757,
+      "text": "st ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 107.586189,
+      "duration": 0.689655,
+      "text": "u",
+      "isLineEnding": 0
+    },
+    {
+      "time": 108.275841,
+      "duration": 0.0862068757,
+      "text": "s",
+      "isLineEnding": 1
+    },
+    {
+      "time": 110.3448,
+      "duration": 0.158045948,
+      "text": "You ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 110.517227,
+      "duration": 0.4310344,
+      "text": "kno",
+      "isLineEnding": 0
+    },
+    {
+      "time": 110.948257,
+      "duration": 0.0862068757,
+      "text": "w ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 111.034462,
+      "duration": 0.25862062,
+      "text": "it",
+      "isLineEnding": 0
+    },
+    {
+      "time": 111.293076,
+      "duration": 0.0718390644,
+      "text": "'s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 111.379288,
+      "duration": 0.25862062,
+      "text": "no",
+      "isLineEnding": 0
+    },
+    {
+      "time": 111.637909,
+      "duration": 0.0718390644,
+      "text": "t ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 111.724121,
+      "duration": 0.3160919,
+      "text": "the ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 112.068939,
+      "duration": 0.474137843,
+      "text": "sa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 112.543083,
+      "duration": 0.0431034379,
+      "text": "me",
+      "isLineEnding": 1
+    },
+    {
+      "time": 112.586189,
+      "duration": 0.51724124,
+      "text": "As ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 113.103424,
+      "duration": 0.2155172,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 113.448257,
+      "duration": 0.603448153,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 114.0517,
+      "duration": 0.0862068757,
+      "text": "s",
+      "isLineEnding": 1
+    },
+    {
+      "time": 115.34481,
+      "duration": 0.3448275,
+      "text": "A",
+      "isLineEnding": 0
+    },
+    {
+      "time": 115.689636,
+      "duration": 0.3448275,
+      "text": "s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 116.034454,
+      "duration": 0.143678129,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 116.206879,
+      "duration": 0.689655,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 116.89653,
+      "duration": 0.0862068757,
+      "text": "s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 118.103432,
+      "duration": 0.3448275,
+      "text": "a",
+      "isLineEnding": 0
+    },
+    {
+      "time": 118.448257,
+      "duration": 0.3448275,
+      "text": "s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 118.793076,
+      "duration": 0.143678129,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 118.965492,
+      "duration": 0.9482757,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 119.913765,
+      "duration": 0.0862068757,
+      "text": "s",
+      "isLineEnding": 1
+    },
+    {
+      "time": 121.379288,
+      "duration": 0.158045948,
+      "text": "You ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 121.5517,
+      "duration": 0.4310344,
+      "text": "kno",
+      "isLineEnding": 0
+    },
+    {
+      "time": 121.982742,
+      "duration": 0.0862068757,
+      "text": "w ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 122.068947,
+      "duration": 0.25862062,
+      "text": "it",
+      "isLineEnding": 0
+    },
+    {
+      "time": 122.32756,
+      "duration": 0.0718390644,
+      "text": "'s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 122.413773,
+      "duration": 0.25862062,
+      "text": "no",
+      "isLineEnding": 0
+    },
+    {
+      "time": 122.672386,
+      "duration": 0.0718390644,
+      "text": "t ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 122.758591,
+      "duration": 0.3160919,
+      "text": "the ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 123.103424,
+      "duration": 0.4310344,
+      "text": "sa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 123.534454,
+      "duration": 0.0862068757,
+      "text": "me",
+      "isLineEnding": 1
+    },
+    {
+      "time": 124.482735,
+      "duration": 0.3448275,
+      "text": "Go ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 124.827568,
+      "duration": 0.3448275,
+      "text": "home ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 125.172394,
+      "duration": 0.25862062,
+      "text": "get ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 125.431007,
+      "duration": 0.0862068757,
+      "text": "a",
+      "isLineEnding": 0
+    },
+    {
+      "time": 125.517212,
+      "duration": 0.3448275,
+      "text": "head",
+      "isLineEnding": 1
+    },
+    {
+      "time": 125.862045,
+      "duration": 0.3448275,
+      "text": "Light-",
+      "isLineEnding": 0
+    },
+    {
+      "time": 126.206871,
+      "duration": 0.3448275,
+      "text": "speed ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 126.5517,
+      "duration": 0.172413751,
+      "text": "in",
+      "isLineEnding": 0
+    },
+    {
+      "time": 126.724121,
+      "duration": 0.172413751,
+      "text": "ter",
+      "isLineEnding": 0
+    },
+    {
+      "time": 126.89653,
+      "duration": 0.3448275,
+      "text": "net",
+      "isLineEnding": 1
+    },
+    {
+      "time": 127.241356,
+      "duration": 0.172413751,
+      "text": "I ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 127.413765,
+      "duration": 0.172413751,
+      "text": "don't ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 127.586182,
+      "duration": 0.172413751,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 127.7586,
+      "duration": 0.172413751,
+      "text": "nna ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 127.931015,
+      "duration": 0.25862062,
+      "text": "talk ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 128.189636,
+      "duration": 0.0862068757,
+      "text": "a",
+      "isLineEnding": 0
+    },
+    {
+      "time": 128.275833,
+      "duration": 0.172413751,
+      "text": "bout ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 128.448242,
+      "duration": 0.12931031,
+      "text": "the ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 128.620667,
+      "duration": 0.25862062,
+      "text": "way",
+      "isLineEnding": 1
+    },
+    {
+      "time": 128.879288,
+      "duration": 0.172413751,
+      "text": "That ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 129.0517,
+      "duration": 0.172413751,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 129.2241,
+      "duration": 0.603448153,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 129.82756,
+      "duration": 0.0287356265,
+      "text": "s",
+      "isLineEnding": 1
+    },
+    {
+      "time": 129.999969,
+      "duration": 0.3448275,
+      "text": "Leave ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 130.3448,
+      "duration": 0.3448275,
+      "text": "A",
+      "isLineEnding": 0
+    },
+    {
+      "time": 130.689636,
+      "duration": 0.172413751,
+      "text": "me",
+      "isLineEnding": 0
+    },
+    {
+      "time": 130.862045,
+      "duration": 0.172413751,
+      "text": "ri",
+      "isLineEnding": 0
+    },
+    {
+      "time": 131.034454,
+      "duration": 0.3448275,
+      "text": "ca",
+      "isLineEnding": 1
+    },
+    {
+      "time": 131.379288,
+      "duration": 0.3448275,
+      "text": "Two ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 131.724121,
+      "duration": 0.3448275,
+      "text": "kids ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 132.068939,
+      "duration": 0.172413751,
+      "text": "fo",
+      "isLineEnding": 0
+    },
+    {
+      "time": 132.241348,
+      "duration": 0.172413751,
+      "text": "llow ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 132.413757,
+      "duration": 0.3448275,
+      "text": "her",
+      "isLineEnding": 1
+    },
+    {
+      "time": 132.758591,
+      "duration": 0.172413751,
+      "text": "I ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 132.931015,
+      "duration": 0.172413751,
+      "text": "don't ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 133.103424,
+      "duration": 0.172413751,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 133.275833,
+      "duration": 0.172413751,
+      "text": "nna ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 133.448257,
+      "duration": 0.25862062,
+      "text": "talk ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 133.706879,
+      "duration": 0.0862068757,
+      "text": "a",
+      "isLineEnding": 0
+    },
+    {
+      "time": 133.793076,
+      "duration": 0.172413751,
+      "text": "bout",
+      "isLineEnding": 1
+    },
+    {
+      "time": 133.965485,
+      "duration": 0.158045948,
+      "text": "Who's ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 134.137909,
+      "duration": 0.172413751,
+      "text": "do",
+      "isLineEnding": 0
+    },
+    {
+      "time": 134.310318,
+      "duration": 0.172413751,
+      "text": "in' ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 134.482742,
+      "duration": 0.158045948,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 134.655151,
+      "duration": 0.7758619,
+      "text": "fir",
+      "isLineEnding": 0
+    },
+    {
+      "time": 135.431015,
+      "duration": 0.0862068757,
+      "text": "st",
+      "isLineEnding": 1
+    },
+    {
+      "time": 137.931,
+      "duration": 0.25862062,
+      "text": "Hey",
+      "isLineEnding": 1
+    },
+    {
+      "time": 142.931,
+      "duration": 0.51724124,
+      "text": "As ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 143.448242,
+      "duration": 0.2155172,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 143.793076,
+      "duration": 0.603448153,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 144.39653,
+      "duration": 0.0862068757,
+      "text": "s",
+      "isLineEnding": 1
+    },
+    {
+      "time": 146.206863,
+      "duration": 0.158045948,
+      "text": "You ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 146.379288,
+      "duration": 0.4310344,
+      "text": "kno",
+      "isLineEnding": 0
+    },
+    {
+      "time": 146.810318,
+      "duration": 0.0862068757,
+      "text": "w ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 146.89653,
+      "duration": 0.25862062,
+      "text": "it",
+      "isLineEnding": 0
+    },
+    {
+      "time": 147.155151,
+      "duration": 0.0718390644,
+      "text": "'s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 147.241348,
+      "duration": 0.25862062,
+      "text": "no",
+      "isLineEnding": 0
+    },
+    {
+      "time": 147.499969,
+      "duration": 0.0718390644,
+      "text": "t ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 147.586182,
+      "duration": 0.3160919,
+      "text": "the ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 147.931015,
+      "duration": 0.474137843,
+      "text": "sa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 148.405151,
+      "duration": 0.0431034379,
+      "text": "me",
+      "isLineEnding": 1
+    },
+    {
+      "time": 148.448242,
+      "duration": 0.51724124,
+      "text": "As ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 148.965485,
+      "duration": 0.2155172,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 149.310318,
+      "duration": 0.603448153,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 149.913757,
+      "duration": 0.0862068757,
+      "text": "s",
+      "isLineEnding": 1
+    },
+    {
+      "time": 151.206863,
+      "duration": 0.3448275,
+      "text": "A",
+      "isLineEnding": 0
+    },
+    {
+      "time": 151.5517,
+      "duration": 0.3448275,
+      "text": "s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 151.896515,
+      "duration": 0.143678129,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 152.068939,
+      "duration": 0.689655,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 152.758591,
+      "duration": 0.0862068757,
+      "text": "s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 154.137909,
+      "duration": 0.3448275,
+      "text": "a",
+      "isLineEnding": 0
+    },
+    {
+      "time": 154.482727,
+      "duration": 0.3448275,
+      "text": "s ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 154.82756,
+      "duration": 0.143678129,
+      "text": "it ",
+      "isLineEnding": 0
+    },
+    {
+      "time": 154.999969,
+      "duration": 0.9482757,
+      "text": "wa",
+      "isLineEnding": 0
+    },
+    {
+      "time": 155.948242,
+      "duration": 0.0862068757,
+      "text": "s",
+      "isLineEnding": 1
+    }
+  ],
+  "moves": [
+    {
+      "time": 4.65517139,
+      "duration": 0.6954872,
+      "name": "asitwas_jacket",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 5.344826,
+      "duration": 0.6954872,
+      "name": "asitwas_snap",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 6.03448153,
+      "duration": 0.869359,
+      "name": "asitwas_arm_up",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 8.448274,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_down_start",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 9.137929,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_down",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 9.827584,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_down",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 10.51724,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_down",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 11.2068949,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_down_start_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 11.89655,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_down",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 12.5862045,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_down",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 13.27586,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_down_end",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 13.9655151,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_down",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 14.65517,
+      "duration": 0.6954872,
+      "name": "asitwas_sun",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 15.3448238,
+      "duration": 0.6954872,
+      "name": "asitwas_fists",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 16.7241344,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_down",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 17.41379,
+      "duration": 0.6954872,
+      "name": "asitwas_sun",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 18.1034451,
+      "duration": 0.6954872,
+      "name": "asitwas_fists",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 19.4827557,
+      "duration": 0.6954872,
+      "name": "asitwas_circle",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 20.8620644,
+      "duration": 0.6954872,
+      "name": "asitwas_circle_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 22.241375,
+      "duration": 0.6954872,
+      "name": "asitwas_circle",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 23.6206856,
+      "duration": 0.6954872,
+      "name": "asitwas_circle_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 24.9999962,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_down",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 25.68965,
+      "duration": 0.6954872,
+      "name": "asitwas_sun",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 26.3793049,
+      "duration": 0.6954872,
+      "name": "asitwas_fists",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 27.7586155,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_down",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 28.44827,
+      "duration": 0.6954872,
+      "name": "asitwas_sun",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 29.1379261,
+      "duration": 0.6954872,
+      "name": "asitwas_fists",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 30.5172367,
+      "duration": 0.6954872,
+      "name": "asitwas_circle",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 31.8965454,
+      "duration": 0.6954872,
+      "name": "asitwas_circle_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 33.275856,
+      "duration": 0.6954872,
+      "name": "asitwas_circle",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 34.6551666,
+      "duration": 0.6954872,
+      "name": "asitwas_circle_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 36.0344772,
+      "duration": 0.6954872,
+      "name": "asitwas_cross_arm",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 36.7241325,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_fall",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 37.413784,
+      "duration": 0.521615446,
+      "name": "asitwas_belly",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 37.9310265,
+      "duration": 0.521615446,
+      "name": "asitwas_belly_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 38.44827,
+      "duration": 0.6954872,
+      "name": "asitwas_cross_arm",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 39.1379242,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_fall_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 40.1724052,
+      "duration": 0.521615446,
+      "name": "asitwas_belly",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 40.6896477,
+      "duration": 0.521615446,
+      "name": "asitwas_belly_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 41.2068863,
+      "duration": 0.6954872,
+      "name": "asitwas_cross_arm",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 41.8965454,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_fall_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 42.9310265,
+      "duration": 0.521615446,
+      "name": "asitwas_belly",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 43.44827,
+      "duration": 0.521615446,
+      "name": "asitwas_belly_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 43.9655075,
+      "duration": 0.6954872,
+      "name": "asitwas_hips",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 44.6551628,
+      "duration": 0.6954872,
+      "name": "asitwas_hips_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 45.51723,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_chorus",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 46.20689,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_chorus_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 47.0689545,
+      "duration": 0.6954872,
+      "name": "asitwas_cross_arm",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 47.7586136,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_fall",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 48.4482651,
+      "duration": 0.521615446,
+      "name": "asitwas_belly",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 48.9655075,
+      "duration": 0.521615446,
+      "name": "asitwas_belly_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 49.4827461,
+      "duration": 0.6954872,
+      "name": "asitwas_cross_arm",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 50.1724052,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_fall_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 51.2068863,
+      "duration": 0.521615446,
+      "name": "asitwas_belly",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 51.72413,
+      "duration": 0.521615446,
+      "name": "asitwas_belly_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 52.2413673,
+      "duration": 0.6954872,
+      "name": "asitwas_cross_arm",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 52.9310265,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_fall_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 53.9655075,
+      "duration": 0.521615446,
+      "name": "asitwas_belly",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 54.48275,
+      "duration": 0.521615446,
+      "name": "asitwas_belly_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 54.99999,
+      "duration": 0.6954872,
+      "name": "asitwas_hips",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 55.6896439,
+      "duration": 0.6954872,
+      "name": "asitwas_hips_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 56.551712,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_chorus",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 57.24137,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_chorus_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 58.10344,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 58.79309,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 59.4827461,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 60.1724,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 60.8620567,
+      "duration": 0.6954872,
+      "name": "asitwas_hi",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 62.2413673,
+      "duration": 0.6954872,
+      "name": "asitwas_hi",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 63.6206779,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 64.31033,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 64.9999847,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 65.6896439,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 66.3792953,
+      "duration": 0.6954872,
+      "name": "asitwas_hi",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 67.758606,
+      "duration": 0.6954872,
+      "name": "asitwas_hi",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 69.13792,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_down",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 69.8275757,
+      "duration": 0.6954872,
+      "name": "asitwas_sun",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 70.51723,
+      "duration": 0.6954872,
+      "name": "asitwas_fists",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 71.89654,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_down",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 72.5862,
+      "duration": 0.6954872,
+      "name": "asitwas_sun",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 73.27585,
+      "duration": 0.6954872,
+      "name": "asitwas_fists",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 74.65516,
+      "duration": 0.6954872,
+      "name": "asitwas_circle",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 76.03447,
+      "duration": 0.6954872,
+      "name": "asitwas_circle_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 77.41378,
+      "duration": 0.6954872,
+      "name": "asitwas_circle",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 78.79309,
+      "duration": 0.6954872,
+      "name": "asitwas_circle_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 80.1724,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_down",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 80.86205,
+      "duration": 0.6954872,
+      "name": "asitwas_sun",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 81.55171,
+      "duration": 0.6954872,
+      "name": "asitwas_fists",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 82.93102,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_down",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 83.62067,
+      "duration": 0.6954872,
+      "name": "asitwas_sun",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 84.3103256,
+      "duration": 0.6954872,
+      "name": "asitwas_fists",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 85.6896439,
+      "duration": 0.6954872,
+      "name": "asitwas_circle",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 87.06895,
+      "duration": 0.6954872,
+      "name": "asitwas_circle_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 88.44826,
+      "duration": 0.6954872,
+      "name": "asitwas_circle",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 89.82757,
+      "duration": 0.6954872,
+      "name": "asitwas_circle_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 91.20688,
+      "duration": 0.6954872,
+      "name": "asitwas_cross_arm",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 91.89653,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_fall",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 92.58619,
+      "duration": 0.521615446,
+      "name": "asitwas_belly",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 93.1034241,
+      "duration": 0.521615446,
+      "name": "asitwas_belly_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 93.6206741,
+      "duration": 0.6954872,
+      "name": "asitwas_cross_arm",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 94.31033,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_fall_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 95.34481,
+      "duration": 0.521615446,
+      "name": "asitwas_belly",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 95.8620453,
+      "duration": 0.521615446,
+      "name": "asitwas_belly_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 96.3792953,
+      "duration": 0.6954872,
+      "name": "asitwas_cross_arm",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 97.0689545,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_fall_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 98.10343,
+      "duration": 0.521615446,
+      "name": "asitwas_belly",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 98.62067,
+      "duration": 0.521615446,
+      "name": "asitwas_belly_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 99.13792,
+      "duration": 0.6954872,
+      "name": "asitwas_hips",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 99.82756,
+      "duration": 0.6954872,
+      "name": "asitwas_hips_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 100.689636,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_chorus",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 101.379288,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_chorus_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 102.241364,
+      "duration": 0.6954872,
+      "name": "asitwas_cross_arm",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 102.931015,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_fall",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 103.620667,
+      "duration": 0.521615446,
+      "name": "asitwas_belly",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 104.137909,
+      "duration": 0.521615446,
+      "name": "asitwas_belly_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 104.655151,
+      "duration": 0.6954872,
+      "name": "asitwas_cross_arm",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 105.3448,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_fall_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 106.379288,
+      "duration": 0.521615446,
+      "name": "asitwas_belly",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 106.89653,
+      "duration": 0.521615446,
+      "name": "asitwas_belly_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 107.413773,
+      "duration": 0.6954872,
+      "name": "asitwas_cross_arm",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 108.103424,
+      "duration": 0.6954872,
+      "name": "asitwas_arm_fall_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 109.137909,
+      "duration": 0.521615446,
+      "name": "asitwas_belly",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 109.655151,
+      "duration": 0.521615446,
+      "name": "asitwas_belly_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 110.172394,
+      "duration": 0.6954872,
+      "name": "asitwas_hips",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 110.862045,
+      "duration": 0.6954872,
+      "name": "asitwas_hips_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 111.724121,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_chorus",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 112.413773,
+      "duration": 0.6954872,
+      "name": "asitwas_snap_chorus_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 113.275833,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 113.965492,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 114.655151,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 115.34481,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 116.034454,
+      "duration": 0.6954872,
+      "name": "asitwas_hi",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 117.413773,
+      "duration": 0.6954872,
+      "name": "asitwas_hi",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 118.793076,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 119.482735,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 120.172394,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 120.862045,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 121.5517,
+      "duration": 0.6954872,
+      "name": "asitwas_hi",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 122.931015,
+      "duration": 0.6954872,
+      "name": "asitwas_hi",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 124.310318,
+      "duration": 0.6954872,
+      "name": "asitwas_run",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 124.999977,
+      "duration": 0.6954872,
+      "name": "asitwas_hair",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 125.689629,
+      "duration": 0.6954872,
+      "name": "asitwas_run",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 126.379288,
+      "duration": 0.6954872,
+      "name": "asitwas_hair",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 127.068939,
+      "duration": 0.6954872,
+      "name": "asitwas_jacket_2_start",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 127.7586,
+      "duration": 0.6954872,
+      "name": "asitwas_jacket_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 128.448242,
+      "duration": 0.6954872,
+      "name": "asitwas_jacket_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 129.137909,
+      "duration": 0.6954872,
+      "name": "asitwas_jacket_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 129.82756,
+      "duration": 0.6954872,
+      "name": "asitwas_run",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 130.517212,
+      "duration": 0.6954872,
+      "name": "asitwas_hair",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 131.206879,
+      "duration": 0.6954872,
+      "name": "asitwas_run",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 131.89653,
+      "duration": 0.6954872,
+      "name": "asitwas_hair",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 132.586182,
+      "duration": 0.6954872,
+      "name": "asitwas_jacket_2_start",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 133.275833,
+      "duration": 0.6954872,
+      "name": "asitwas_jacket_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 133.965485,
+      "duration": 0.6954872,
+      "name": "asitwas_jacket_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 134.655151,
+      "duration": 0.6954872,
+      "name": "asitwas_jacket_end",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 135.344788,
+      "duration": 0.6954872,
+      "name": "asitwas_hands",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 136.034454,
+      "duration": 0.6954872,
+      "name": "asitwas_hands_2",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 137.068939,
+      "duration": 0.6954872,
+      "name": "asitwas_head_down",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 137.758591,
+      "duration": 0.6954872,
+      "name": "asitwas_jump",
+      "goldMove": 1,
+      "coachID": 0
+    },
+    {
+      "time": 140.1724,
+      "duration": 0.6954872,
+      "name": "asitwas_knee",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 140.86203,
+      "duration": 0.6954872,
+      "name": "asitwas_hi",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 142.241364,
+      "duration": 0.6954872,
+      "name": "asitwas_hi",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 143.620667,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 144.310318,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 144.999969,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 145.689621,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 146.379272,
+      "duration": 0.6954872,
+      "name": "asitwas_hi",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 147.758591,
+      "duration": 0.6954872,
+      "name": "asitwas_hi",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 149.137909,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 149.82756,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 150.517212,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 151.206863,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 151.896515,
+      "duration": 0.6954872,
+      "name": "asitwas_hi",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 153.275833,
+      "duration": 0.6954872,
+      "name": "asitwas_hi",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 154.655151,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 155.344788,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 156.034454,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 156.7241,
+      "duration": 0.6954872,
+      "name": "asitwas_drum",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 157.413773,
+      "duration": 0.6954872,
+      "name": "asitwas_arms_open",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 158.965485,
+      "duration": 0.6954872,
+      "name": "asitwas_arms_close",
+      "goldMove": 0,
+      "coachID": 0
+    },
+    {
+      "time": 159.655136,
+      "duration": 0.6954872,
+      "name": "asitwas_final_pose",
+      "goldMove": 1,
+      "coachID": 0
+    }
+  ],
+  "pictos": [
+    {
+      "time": 4.827585,
+      "name": "jacket_sh"
+    },
+    {
+      "time": 5.51724,
+      "name": "snap_ar_pu"
+    },
+    {
+      "time": 6.03448153,
+      "name": "snap2_ar"
+    },
+    {
+      "time": 8.27586,
+      "name": "arm_head_po"
+    },
+    {
+      "time": 8.965515,
+      "name": "snap_down_start_pu"
+    },
+    {
+      "time": 10.3448257,
+      "name": "snap_down_pu_2"
+    },
+    {
+      "time": 11.7241354,
+      "name": "snap_down_start_pu_2"
+    },
+    {
+      "time": 13.103446,
+      "name": "snap_down_pu_5"
+    },
+    {
+      "time": 13.9655151,
+      "name": "arm_down_ar"
+    },
+    {
+      "time": 15.3448238,
+      "name": "fists_ar"
+    },
+    {
+      "time": 16.7241344,
+      "name": "arm_down_ar_2"
+    },
+    {
+      "time": 18.1034451,
+      "name": "fists_ar_2"
+    },
+    {
+      "time": 19.31034,
+      "name": "elvis_mo_ar_2"
+    },
+    {
+      "time": 20.6896515,
+      "name": "elvis_mo_ar"
+    },
+    {
+      "time": 22.06896,
+      "name": "elvis_mo_ar_2"
+    },
+    {
+      "time": 23.44827,
+      "name": "elvis_mo_ar"
+    },
+    {
+      "time": 24.9999962,
+      "name": "arm_down_ar"
+    },
+    {
+      "time": 26.3793049,
+      "name": "fists_ar"
+    },
+    {
+      "time": 27.7586155,
+      "name": "arm_down_ar_2"
+    },
+    {
+      "time": 29.1379261,
+      "name": "fists_ar_2"
+    },
+    {
+      "time": 30.3448219,
+      "name": "elvis_mo_ar_2"
+    },
+    {
+      "time": 31.7241325,
+      "name": "elvis_mo_ar"
+    },
+    {
+      "time": 33.10344,
+      "name": "elvis_mo_ar_2"
+    },
+    {
+      "time": 34.48275,
+      "name": "elvis_mo_ar"
+    },
+    {
+      "time": 36.20689,
+      "name": "cross_arm_ar"
+    },
+    {
+      "time": 37.413784,
+      "name": "belly_ar"
+    },
+    {
+      "time": 38.10344,
+      "name": "belly_po_2"
+    },
+    {
+      "time": 38.62068,
+      "name": "cross_arm_ar_2"
+    },
+    {
+      "time": 40.1724052,
+      "name": "belly2_ar"
+    },
+    {
+      "time": 40.86206,
+      "name": "belly2_po"
+    },
+    {
+      "time": 41.379303,
+      "name": "cross_arm_ar"
+    },
+    {
+      "time": 42.9310265,
+      "name": "belly_ar"
+    },
+    {
+      "time": 43.62068,
+      "name": "belly_po_2"
+    },
+    {
+      "time": 44.3103371,
+      "name": "hips_pu"
+    },
+    {
+      "time": 44.9999924,
+      "name": "hips_pu_2"
+    },
+    {
+      "time": 45.6896477,
+      "name": "snap_chorus_pu"
+    },
+    {
+      "time": 46.379303,
+      "name": "snap_chorus_pu_2"
+    },
+    {
+      "time": 47.24137,
+      "name": "cross_arm_ar"
+    },
+    {
+      "time": 48.4482651,
+      "name": "belly_ar"
+    },
+    {
+      "time": 49.1379242,
+      "name": "belly_po_2"
+    },
+    {
+      "time": 49.6551628,
+      "name": "cross_arm_ar_2"
+    },
+    {
+      "time": 51.2068863,
+      "name": "belly2_ar"
+    },
+    {
+      "time": 51.8965454,
+      "name": "belly2_po"
+    },
+    {
+      "time": 52.413784,
+      "name": "cross_arm_ar"
+    },
+    {
+      "time": 53.7930946,
+      "name": "belly_ar"
+    },
+    {
+      "time": 54.65516,
+      "name": "belly_po_2"
+    },
+    {
+      "time": 55.34482,
+      "name": "hips_pu"
+    },
+    {
+      "time": 56.03447,
+      "name": "hips_pu_2"
+    },
+    {
+      "time": 56.72413,
+      "name": "snap_chorus_pu"
+    },
+    {
+      "time": 57.41378,
+      "name": "snap_chorus_pu_2"
+    },
+    {
+      "time": 58.2758522,
+      "name": "drum_sh"
+    },
+    {
+      "time": 58.9655037,
+      "name": "drum_sh_2"
+    },
+    {
+      "time": 59.6551628,
+      "name": "drum_sh"
+    },
+    {
+      "time": 60.3448143,
+      "name": "drum_sh_2"
+    },
+    {
+      "time": 61.0344734,
+      "name": "hi_ar_sh"
+    },
+    {
+      "time": 61.7241249,
+      "name": "hi_ar_sh_2"
+    },
+    {
+      "time": 62.413784,
+      "name": "hi_ar_sh"
+    },
+    {
+      "time": 63.1034355,
+      "name": "hi_ar_sh_2"
+    },
+    {
+      "time": 63.79309,
+      "name": "drum_sh"
+    },
+    {
+      "time": 64.48275,
+      "name": "drum_sh_2"
+    },
+    {
+      "time": 65.1724,
+      "name": "drum_sh"
+    },
+    {
+      "time": 65.86206,
+      "name": "drum_sh_2"
+    },
+    {
+      "time": 66.55171,
+      "name": "hi_ar_sh"
+    },
+    {
+      "time": 67.24137,
+      "name": "hi_ar_sh_2"
+    },
+    {
+      "time": 67.93102,
+      "name": "hi_ar_sh"
+    },
+    {
+      "time": 68.62068,
+      "name": "hi_ar_sh_2"
+    },
+    {
+      "time": 69.31033,
+      "name": "arm_down_ar"
+    },
+    {
+      "time": 70.51723,
+      "name": "fists_ar"
+    },
+    {
+      "time": 72.0689545,
+      "name": "arm_down_ar_2"
+    },
+    {
+      "time": 73.27585,
+      "name": "fists_ar_2"
+    },
+    {
+      "time": 74.48274,
+      "name": "elvis_mo_ar_2"
+    },
+    {
+      "time": 75.86205,
+      "name": "elvis_mo_ar"
+    },
+    {
+      "time": 77.24136,
+      "name": "elvis_mo_ar_2"
+    },
+    {
+      "time": 78.6206741,
+      "name": "elvis_mo_ar"
+    },
+    {
+      "time": 80.34481,
+      "name": "arm_down_ar"
+    },
+    {
+      "time": 81.55171,
+      "name": "fists_ar"
+    },
+    {
+      "time": 82.93102,
+      "name": "arm_down_ar_2"
+    },
+    {
+      "time": 84.3103256,
+      "name": "fists_ar_2"
+    },
+    {
+      "time": 85.51722,
+      "name": "elvis_mo_ar_2"
+    },
+    {
+      "time": 86.89654,
+      "name": "elvis_mo_ar"
+    },
+    {
+      "time": 88.27584,
+      "name": "elvis_mo_ar_2"
+    },
+    {
+      "time": 89.65516,
+      "name": "elvis_mo_ar"
+    },
+    {
+      "time": 91.3792953,
+      "name": "cross_arm_ar"
+    },
+    {
+      "time": 92.758606,
+      "name": "belly_ar"
+    },
+    {
+      "time": 93.44826,
+      "name": "belly_po_2"
+    },
+    {
+      "time": 93.9655,
+      "name": "cross_arm_ar_2"
+    },
+    {
+      "time": 95.34481,
+      "name": "belly2_ar"
+    },
+    {
+      "time": 96.03446,
+      "name": "belly2_po"
+    },
+    {
+      "time": 96.5517044,
+      "name": "cross_arm_ar"
+    },
+    {
+      "time": 98.10343,
+      "name": "belly_ar"
+    },
+    {
+      "time": 98.79308,
+      "name": "belly_po_2"
+    },
+    {
+      "time": 99.48274,
+      "name": "hips_pu"
+    },
+    {
+      "time": 100.172394,
+      "name": "hips_pu_2"
+    },
+    {
+      "time": 100.862045,
+      "name": "snap_chorus_pu"
+    },
+    {
+      "time": 101.551704,
+      "name": "snap_chorus_pu_2"
+    },
+    {
+      "time": 102.413773,
+      "name": "cross_arm_ar"
+    },
+    {
+      "time": 103.620667,
+      "name": "belly_ar"
+    },
+    {
+      "time": 104.310326,
+      "name": "belly_po_2"
+    },
+    {
+      "time": 104.827568,
+      "name": "cross_arm_ar_2"
+    },
+    {
+      "time": 106.379288,
+      "name": "belly2_ar"
+    },
+    {
+      "time": 107.068947,
+      "name": "belly2_po"
+    },
+    {
+      "time": 107.586189,
+      "name": "cross_arm_ar"
+    },
+    {
+      "time": 108.9655,
+      "name": "belly_ar"
+    },
+    {
+      "time": 109.827568,
+      "name": "belly_po_2"
+    },
+    {
+      "time": 110.517227,
+      "name": "hips_pu"
+    },
+    {
+      "time": 111.206871,
+      "name": "hips_pu_2"
+    },
+    {
+      "time": 111.89653,
+      "name": "snap_chorus_pu"
+    },
+    {
+      "time": 112.586189,
+      "name": "snap_chorus_pu_2"
+    },
+    {
+      "time": 113.448257,
+      "name": "drum_sh"
+    },
+    {
+      "time": 114.137909,
+      "name": "drum_sh_2"
+    },
+    {
+      "time": 114.82756,
+      "name": "drum_sh"
+    },
+    {
+      "time": 115.51722,
+      "name": "drum_sh_2"
+    },
+    {
+      "time": 116.206879,
+      "name": "hi_ar_sh"
+    },
+    {
+      "time": 116.89653,
+      "name": "hi_ar_sh_2"
+    },
+    {
+      "time": 117.586182,
+      "name": "hi_ar_sh"
+    },
+    {
+      "time": 118.275841,
+      "name": "hi_ar_sh_2"
+    },
+    {
+      "time": 118.965492,
+      "name": "drum_sh"
+    },
+    {
+      "time": 119.655151,
+      "name": "drum_sh_2"
+    },
+    {
+      "time": 120.3448,
+      "name": "drum_sh"
+    },
+    {
+      "time": 121.034462,
+      "name": "drum_sh_2"
+    },
+    {
+      "time": 121.724113,
+      "name": "hi_ar_sh"
+    },
+    {
+      "time": 122.413773,
+      "name": "hi_ar_sh_2"
+    },
+    {
+      "time": 123.103424,
+      "name": "hi_ar_sh"
+    },
+    {
+      "time": 123.793076,
+      "name": "hi_ar_sh_2"
+    },
+    {
+      "time": 124.482735,
+      "name": "run_mo_pu"
+    },
+    {
+      "time": 125.172394,
+      "name": "hair_ar"
+    },
+    {
+      "time": 125.862045,
+      "name": "run_mo_pu_2"
+    },
+    {
+      "time": 126.5517,
+      "name": "hair_ar_2"
+    },
+    {
+      "time": 127.241356,
+      "name": "jacket_2_start_sh"
+    },
+    {
+      "time": 127.931015,
+      "name": "jacket_2_start_sh"
+    },
+    {
+      "time": 129.999969,
+      "name": "run_pu_3"
+    },
+    {
+      "time": 130.689636,
+      "name": "hair_po"
+    },
+    {
+      "time": 131.379288,
+      "name": "run_pu_3"
+    },
+    {
+      "time": 132.068939,
+      "name": "hair_po"
+    },
+    {
+      "time": 132.758591,
+      "name": "jacket_2_start_sh"
+    },
+    {
+      "time": 133.448257,
+      "name": "jacket_2_start_sh"
+    },
+    {
+      "time": 134.999969,
+      "name": "hands_pu"
+    },
+    {
+      "time": 135.689636,
+      "name": "hands_ar_sh"
+    },
+    {
+      "time": 137.068939,
+      "name": "head_down_ar"
+    },
+    {
+      "time": 137.931,
+      "name": "_ju_gold"
+    },
+    {
+      "time": 138.793076,
+      "name": "knee_pu"
+    },
+    {
+      "time": 139.482727,
+      "name": "knee_pu_2"
+    },
+    {
+      "time": 140.1724,
+      "name": "knee_pu_3"
+    },
+    {
+      "time": 141.034454,
+      "name": "hi_ar_sh"
+    },
+    {
+      "time": 141.7241,
+      "name": "hi_ar_sh_2"
+    },
+    {
+      "time": 142.413773,
+      "name": "hi_ar_sh"
+    },
+    {
+      "time": 143.103424,
+      "name": "hi_ar_sh_2"
+    },
+    {
+      "time": 143.793076,
+      "name": "drum_sh"
+    },
+    {
+      "time": 144.482727,
+      "name": "drum_sh_2"
+    },
+    {
+      "time": 145.1724,
+      "name": "drum_sh"
+    },
+    {
+      "time": 145.862045,
+      "name": "drum_sh_2"
+    },
+    {
+      "time": 146.5517,
+      "name": "hi_ar_sh"
+    },
+    {
+      "time": 147.241348,
+      "name": "hi_ar_sh_2"
+    },
+    {
+      "time": 147.931015,
+      "name": "hi_ar_sh"
+    },
+    {
+      "time": 148.620651,
+      "name": "hi_ar_sh_2"
+    },
+    {
+      "time": 149.310318,
+      "name": "drum_sh"
+    },
+    {
+      "time": 149.999969,
+      "name": "drum_sh_2"
+    },
+    {
+      "time": 150.689636,
+      "name": "drum_sh"
+    },
+    {
+      "time": 151.379272,
+      "name": "drum_sh_2"
+    },
+    {
+      "time": 152.068939,
+      "name": "hi_ar_sh"
+    },
+    {
+      "time": 152.758591,
+      "name": "hi_ar_sh_2"
+    },
+    {
+      "time": 153.448242,
+      "name": "hi_ar_sh"
+    },
+    {
+      "time": 154.137909,
+      "name": "hi_ar_sh_2"
+    },
+    {
+      "time": 154.82756,
+      "name": "drum_sh"
+    },
+    {
+      "time": 155.517212,
+      "name": "drum_sh_2"
+    },
+    {
+      "time": 156.206863,
+      "name": "drum_sh"
+    },
+    {
+      "time": 156.896515,
+      "name": "drum_sh_2"
+    },
+    {
+      "time": 157.586182,
+      "name": "arms_open_ar"
+    },
+    {
+      "time": 159.310318,
+      "name": "arms_close_ar"
+    },
+    {
+      "time": 159.999969,
+      "name": "final_po_gold"
+    }
+  ]
+}
